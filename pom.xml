@@ -2,14 +2,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>social_networking_app</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>social_networking_app</name>
 	<description>Similar to Twitter</description>
 
 	<scm>
 		<connection>scm:git:git://https://github.com/vabhagurkar/demoTwitter.git</connection>
 		<developerConnection>scm:git:ssh://https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
-		<tag>social_networking_app-0.0.2</tag>
+		<tag>social_networking_app-0.0.3</tag>
 	</scm>
 	<build>
 		<plugins>
