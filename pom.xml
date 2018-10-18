@@ -8,7 +8,6 @@
 
 	<distributionManagement>
 		<downloadUrl>https://github.com/vabhagurkar/demoTwitter</downloadUrl>
-		<status>deployed</status>
 	</distributionManagement>
 
 	<scm>
