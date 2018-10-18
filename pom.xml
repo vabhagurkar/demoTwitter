@@ -11,6 +11,12 @@
 		<developerConnection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
 		<tag>social_networking_app-0.0.3</tag>
 	</scm>
+
+	<distributionManagement>
+		<downloadUrl>https://github.com/vabhagurkar/demoTwitter</downloadUrl>
+		<status>deployed</status>
+	</distributionManagement>
+
 	<build>
 		<plugins>
 			<plugin>
