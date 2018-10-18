@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>social_networking_app</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<name>social_networking_app</name>
 	<description>Similar to Twitter</description>
 
