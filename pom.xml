@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>social_networking_app</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.0.10-SNAPSHOT</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>social_networking_app</name>
 	<description>Similar to Twitter</description>
 
@@ -10,7 +10,7 @@
 		<downloadUrl>https://github.com/vabhagurkar/demoTwitter</downloadUrl>
 		<repository>
 			<id>releases</id>
-			<url>https://github.com/vabhagurkar/demoTwitter/releases/tag/</url>
+			<url>https://github.com/vabhagurkar/demoTwitter/releases/tag</url>
 		</repository>
 	</distributionManagement>
 
