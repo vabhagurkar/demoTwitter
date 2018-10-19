@@ -1,22 +1,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
+	<groupId>demoTwitter</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.1.4-SNAPSHOT</version>
+	<version>0.1.5-SNAPSHOT</version>
 	<description>Similar to Twitter</description>
 	<packaging>jar</packaging>
-
-	<distributionManagement>
-		<repository>
-			<id>releases</id>
-			<url>https://github.com/vabhagurkar/demoTwitter/releases</url>
-		</repository>
-	</distributionManagement>
 
 	<scm>
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
 		<developerConnection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
-	  <tag>HEAD</tag>
-  </scm>
+  	</scm>
 
 	<build>
 		<plugins>
