@@ -2,14 +2,14 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>demoTwitter</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.1.6-SNAPSHOT</version>
+	<version>0.1.7-SNAPSHOT</version>
 	<description>Similar to Twitter</description>
 	<packaging>jar</packaging>
 
 	<distributionManagement>
 		<repository>
-			<id>demoTwitter</id>
-			<url>https://github.com/vabhagurkar</url>
+			<id>social_networking_app</id>
+			<url>https://github.com/vabhagurkar/demoTwitter/releases/tag</url>
 		</repository>
 	</distributionManagement>
 
