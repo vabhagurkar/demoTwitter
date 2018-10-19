@@ -1,15 +1,15 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>demoTwitter</groupId>
+	<groupId>releases.tag</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.1.7-SNAPSHOT</version>
+	<version>0.1.8-SNAPSHOT</version>
 	<description>Similar to Twitter</description>
 	<packaging>jar</packaging>
 
 	<distributionManagement>
 		<repository>
-			<id>social_networking_app</id>
-			<url>https://github.com/vabhagurkar/demoTwitter/releases/tag</url>
+			<id>demoTwitter</id>
+			<url>https://github.com/vabhagurkar/</url>
 		</repository>
 	</distributionManagement>
 
