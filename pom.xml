@@ -8,8 +8,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>releases</id>
-			<url>https://github.com/vabhagurkar/demoTwitter/releases</url>
+			<id>demoTwitter</id>
+			<url>https://github.com/vabhagurkar</url>
 		</repository>
 	</distributionManagement>
 
