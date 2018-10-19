@@ -2,12 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.social_ntw</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.1.10-SNAPSHOT</version>
+	<version>0.1.11-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<distributionManagement>
 		<repository>
-			<id>demoTwitter</id>
+			<id>releases</id>
 			<url>https://github.com/vabhagurkar/</url>
 		</repository>
 	</distributionManagement>
