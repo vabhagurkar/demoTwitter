@@ -2,18 +2,18 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>demoTwitter</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.0.13-SNAPSHOT</version>
+	<version>0.0.14-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<scm>
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
 		<developerConnection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
-  	  <tag>social_networking_app-0.0.13</tag>
+  	  <tag>social_networking_app-0.0.14</tag>
 	</scm>
 
 	<distributionManagement>
 		<repository>
-			<id>internal.repo</id>
+			<id>demoTwitter</id>
 			<name>Github Repo</name>
 			<url>https://github.com/vabhagurkar/demoTwitter/master</url>
 		</repository>
