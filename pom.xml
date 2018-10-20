@@ -2,20 +2,20 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>demoTwitter</groupId>
 	<artifactId>social_networking_app</artifactId>
-	<version>0.0.6-SNAPSHOT</version>
+	<version>0.0.7-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<distributionManagement>
 		<repository>
 			<id>social_n_a</id>
-			<url>https://github.com/vabhagurkar/releases/tah</url>
+			<url>https://github.com/vabhagurkar/releases/tags</url>
 		</repository>
 	</distributionManagement>
 
 	<scm>
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
 		<developerConnection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
-  	  <tag>social_networking_app-0.0.6</tag>
+  	  <tag>social_networking_app-0.0.7</tag>
 	</scm>
 
 	<build>
