@@ -5,12 +5,6 @@
 	<version>0.0.10-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<distributionManagement>
-		<repository>
-			<id>social_n_a</id>
-			<url>https://github.com/vabhagurkar/releases/tags</url>
-		</repository>
-	</distributionManagement>
 
 	<scm>
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
@@ -20,6 +14,13 @@
 
 	<build>
 		<plugins>
+			<plugin>
+			<artifactId>maven-release-plugin</artifactId>
+			<version>2.1</version>
+			<configuration>
+				<goals>install</goals>
+			</configuration>
+		</plugin>
 			<plugin>
 				<artifactId>maven-compiler-plugin</artifactId>
 				<version>3.7.0</version>
