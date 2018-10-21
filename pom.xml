@@ -13,8 +13,8 @@
 
 	<distributionManagement>
 			<repository>
-				<id>releases</id>
-				<url>https://github.com/vabhagurkar/demoTwitter/releases</url>
+				<id>social_repo</id>
+				<url>https://github.com/vabhagurkar/social_repo</url>
 			</repository>
 	</distributionManagement>
 
