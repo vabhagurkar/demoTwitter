@@ -2,12 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>social_networking_app</artifactId>
 	<groupId>com.social_ntw</groupId>
-	<version>0.2.1</version>
+	<version>0.2.2-SNAPSHOT</version>
 
 	<scm>
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
 		<developerConnection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
-  	  <tag>social_networking_app-0.2.1</tag>
+  	  <tag>social_networking_app-0.1.10</tag>
 	</scm>
 
 	<distributionManagement>
