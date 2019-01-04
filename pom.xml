@@ -8,13 +8,13 @@
 	<scm>
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
 		<developerConnection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
-  	  <tag>social_networking_app-0.2.8</tag>
+  	  <tag>social_networking_app-0.2.9</tag>
 	</scm>
 
 	<distributionManagement>
 			<repository>
-				<id />
-				<url />
+				<id>social_networking_app</id>
+				<url>https://github.com/vabhagurkar/social_repo/releases/tag/0.2.9</url>
 			</repository>
 	</distributionManagement>
 
