@@ -10,13 +10,6 @@
   	  <tag>social_networking_app-0.2.6</tag>
 	</scm>
 
-	<distributionManagement>
-			<repository>
-				<id>social_repo</id>
-				<url>https://github.com/vabhagurkar/social_repo</url>
-			</repository>
-	</distributionManagement>
-
 	<build>
 		<plugins>
 			<plugin>
