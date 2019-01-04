@@ -8,6 +8,7 @@
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
 		<developerConnection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</developerConnection>
   	  <tag>social_networking_app-0.1.10</tag>
+	</scm>
 
 	<distributionManagement>
 			<repository>
