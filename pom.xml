@@ -3,6 +3,7 @@
 	<artifactId>social_networking_app</artifactId>
 	<groupId>com.social_ntw</groupId>
 	<version>0.2.8-SNAPSHOT</version>
+	<packaging>jar</packaging>
 
 	<scm>
 		<connection>scm:git:https://github.com/vabhagurkar/demoTwitter.git</connection>
