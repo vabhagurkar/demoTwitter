@@ -28,6 +28,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Work/mta2/src/main/java/com/mimecast/mta/jarvis/JarvisClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Work/mta2/src/main/java/com/mimecast/mta/jarvis/RecipientService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Work/mta2/src/main/java/com/mimecast/mta/notifications/NotificationServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Work/mta2/src/main/java/com/mimecast/mta/stats/logger/MessageStatsLogger.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Work/mta2/src/main/java/com/mimecast/mta/stats/logger/RecipientStatsLogger.java">
           <value>
             <set />
@@ -44,6 +64,11 @@
           </value>
         </entry>
         <entry key="$USER_HOME$/Work/pop/src/main/java/com/mimecast/pop/server/POPServerMain.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/demoTwitter/.idea/workspace.xml">
           <value>
             <set />
           </value>
